@@ -1,4 +1,4 @@
 # Create your haunted_houses migration here
-class CreateCostumes < ActiveRecord::Migration
+class CreateHauntedHouses < ActiveRecord::Migration
 
 end
